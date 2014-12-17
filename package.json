@@ -1,0 +1,28 @@
+{
+  "name": "excel-cell-extractor",
+  "version": "1.0.0",
+  "description": "a configurable parser that gets list of cells out of xls or xlsx files",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daplay/excel-cell-extractor"
+  },
+  "keywords": [
+    "excel",
+    "parser"
+  ],
+  "author": "Daniel Meneses <daplay@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daplay/excel-cell-extractor/issues"
+  },
+  "homepage": "https://github.com/daplay/excel-cell-extractor",
+  "dependencies": {
+    "async": "^0.9.0",
+    "lodash": "^2.4.1",
+    "xlsjs": "^0.7.2"
+  }
+}

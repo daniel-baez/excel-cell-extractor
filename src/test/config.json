@@ -1,0 +1,14 @@
+{
+  "recipes": {
+    "sheetName": "PESOS",
+    "cells": {
+      "colum": ["A", 4]
+    } 
+  },
+  "ingredients": {
+    "sheetName": "PESOS",
+    "cells": {
+      "row": [3, "B", "AB"]
+    }
+  }
+}
